@@ -8,7 +8,7 @@
 * gulpfile.js
 
 ### Commands to run
-1. npm init  -> creates package.json
+npm init  -> creates package.json
 2. npm install gulp --save-dev
   -> Creates node_modules (make sure to ignore)
   -> locks json file
